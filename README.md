@@ -1,3 +1,3 @@
 # realtor
 
-This web page is made by Vue.js
+This web page is created using Vue.js
